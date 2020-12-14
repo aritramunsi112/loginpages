@@ -1,0 +1,6 @@
+#Middle {
+  height: 500vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
